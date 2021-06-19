@@ -2,7 +2,7 @@
 ## Learning assembly and source code semantics with masked language modeling  
 
 Inspired by [Trex](https://arxiv.org/pdf/2012.08680.pdf), we hope to study the effectiveness of language
-modeling in learning the direct semantic correlations between assembly and source codes, and ultimately translating assembly codes back to source codes. More detailes were provided in this [paper](https://github.com/ShengkaiLee/masked-language-model/blob/main/Trex_follow_up.pdf)
+modeling in learning the direct semantic correlations between assembly and source codes, and ultimately translating assembly codes back to source codes. More details were provided in this [paper](https://github.com/ShengkaiLee/masked-language-model/blob/main/Trex_follow_up.pdf)
 
 ## Team  
 
